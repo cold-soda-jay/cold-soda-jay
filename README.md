@@ -20,10 +20,10 @@ Recent Projects
 </summary>
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cold-soda-jay&repo=blenderMotorFactory)](https://github.com/cold-soda-jay/blenderMotorFactory)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cold-soda-jay&repo=ticktick-review)](https://github.com/cold-soda-jay/ticktick-review)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cold-soda-jay&repo=iliaD)](https://github.com/cold-soda-jay/iliaD)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cold-soda-jay&repo=Markdown-vim)](https://github.com/cold-soda-jay/Markdown-vim)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cold-soda-jay&repo=blenderMotorFactory&hide_border=true&theme=cobalt)](https://github.com/cold-soda-jay/blenderMotorFactory)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cold-soda-jay&repo=ticktick-review&hide_border=true&theme=cobalt)](https://github.com/cold-soda-jay/ticktick-review)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cold-soda-jay&repo=iliaD&hide_border=true&theme=cobalt)](https://github.com/cold-soda-jay/iliaD)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cold-soda-jay&repo=Markdown-vim&hide_border=true&theme=cobalt)](https://github.com/cold-soda-jay/Markdown-vim)
 
 <br />
 
