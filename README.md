@@ -3,8 +3,6 @@
 <h1 align="center"><i align="center"><font face = "Times New Roman" size="6.5">cold-soda-jay</font></i>
 </h1>
 
-----
-
 <br/>
 
 Hi there! I am Jay, a fan of [Python](https://www.python.org/) <img src="pics/python.png" alt="Image" width="20" /> 
