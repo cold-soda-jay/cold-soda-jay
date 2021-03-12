@@ -1,4 +1,5 @@
-![nerv](pics/nerv.jpg | width=100)
+<div align="center"><img src="pics/nerv.jpg" alt="Image" width="200"/></div> 
+
 <div align="center"><i align="center"><font face = "Times New Roman" size="6.5">cold-soda-jay</font></i>
 </div>
 
