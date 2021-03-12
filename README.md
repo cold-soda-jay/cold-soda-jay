@@ -7,7 +7,7 @@
 
 <br/>
 
-Hi there! I am Jay, a fan of [Python](https://www.python.org/) <img src="pics/python.png" alt="Image" style="zoom:1%;" /> 
+Hi there! I am Jay, a fan of [Python](https://www.python.org/) <img src="pics/python.png" alt="Image" width="20" /> 
 , [Neovim](https://neovim.io/)  <img src="pics/neovim.png" alt="Image" style="zoom:12%;" /> and [Neon Genesis Evangelion](https://www.evangelion.co.jp/) <img src="pics/nerv.jpg" alt="Image" style="zoom:3%;" />!
 
 
