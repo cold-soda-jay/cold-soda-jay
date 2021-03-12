@@ -6,7 +6,7 @@
 <br/>
 
 Hi there! I am Jay, a fan of [Python](https://www.python.org/) <img src="pics/python.png" alt="Image" width="20" /> 
-, [Neovim](https://neovim.io/)  <img src="pics/neovim.png" alt="Image" width="20" /> and [Neon Genesis Evangelion](https://www.evangelion.co.jp/) <img src="pics/nerv.jpg" alt="Image" width="20" />!
+, [Neovim](https://neovim.io/)  <img src="pics/neovim.png" alt="Image" width="20" /> and [Neon Genesis Evangelion](https://www.evangelion.co.jp/) <img src="pics/nerv.png" alt="Image" width="20" />!
 
 
 ![Stats](https://github-readme-stats-codestackr.vercel.app/api?username=cold-soda-jay&show_icons=true&hide_border=true&theme=cobalt)
