@@ -9,7 +9,7 @@ Hi there! I am Jay, a fan of [Python](https://www.python.org/) <img src="pics/py
 , [Neovim](https://neovim.io/)  <img src="pics/neovim.png" alt="Image" width="20" /> and [Neon Genesis Evangelion](https://www.evangelion.co.jp/) <img src="pics/nerv.png" alt="Image" width="20" />!
 
 
-![Stats](https://github-readme-stats-codestackr.vercel.app/api?username=cold-soda-jay&show_icons=true&hide_border=true&theme=cobalt)
+![Stats](https://github-readme-stats.vercel.app/api?username=cold-soda-jay&show_icons=true&hide_border=true&theme=cobalt)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cold-soda-jay)](https://github.com/cold-soda-jay)-->
 <!--https://img.shields.io/static/v1?label=%20&logo=python&message=%20&logoColor=orange&color=white   ![Neovim](https://img.shields.io/static/v1?label=%20&logo=neovim&message=%20&logoColor=brightgreen&color=gray)-->
@@ -35,4 +35,4 @@ Recent Projects
 
 Credits: [cold-soda-jay](https://github.com/cold-soda-jay)
 
-Last Edited on: 12/03/2021
+Last Edited on: 28/05/2021
